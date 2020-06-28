@@ -1,1 +1,1 @@
-# E-commerce
+This is Ecommerce website made on django framework.HTML,CSS and Javascriipt is also used for creating templates. It has a functional cart and also a admin management Page.The website has also a checkout page.The payment integrationa and guest interface is not completed yet.
